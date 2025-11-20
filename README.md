@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-- 💻 **.NET Full Stack Developer** — specializing in **ASP.NET Core Web API + Angular 17**
+- 💻 **.NET Full Stack Developer** — specializing in **ASP.NET Core Web API + Angular 19**
 - 🎯 2+ years of hands-on experience building real business applications  
 - 🏢 Working remotely as a **Full Stack Developer @ JahezTeam Technology (KSA)**  
 - 🧩 Strong knowledge in **Clean Architecture**, **CQRS**, **MediatR**, and scalable API design  
@@ -31,7 +31,7 @@
 `C#` • `ASP.NET Core` • `Web API` • `MediatR` • `CQRS` • `Identity` • `JWT` • `Hangfire`
 
 ### 🔹 Front-End
-`Angular 17+` • `TypeScript` • `RxJS` • `HTML` • `CSS` • `PrimeNG`
+`Angular 19+` • `TypeScript` • `RxJS` • `HTML` • `CSS` • `PrimeNG`
 
 ### 🔹 Architecture & Patterns
 `Clean Architecture` • `Repository Pattern` • `Unit of Work` • `SOLID` • `DTO Mapping` • `Onion Architecture`
@@ -40,7 +40,7 @@
 `SQL Server` • `Entity Framework Core` • `LINQ`
 
 ### 🔹 Tools
-`Git` • `GitHub` • `Swagger` • `Postman` • `Visual Studio` • `VS Code`  
+`Git` • `GitHub` • `Swagger` • `Postman` • `Visual Studio`• `IIS` • `VS Code`  
 
 ---
 
