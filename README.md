@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Mohamed123Hamed">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4CAF50&center=true&vCenter=true&width=650&lines=.NET+Full+Stack+Developer;ASP.NET+Core+%7C+Angular+17%2B;Clean+Architecture+%7C+CQRS;Always+Learning+%26+Building+Better+Software" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4CAF50&center=true&vCenter=true&width=650&lines=.NET+Full+Stack+Developer;ASP.NET+Core+%7C+Angular+19%2B;Clean+Architecture+%7C+CQRS;Always+Learning+%26+Building+Better+Software" />
   </a>
 </p>
 
